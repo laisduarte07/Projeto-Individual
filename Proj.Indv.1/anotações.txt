@@ -1,0 +1,33 @@
+(divisão da página em blocos)    https://www.devmedia.com.br/como-criar-um-layout-de-duas-colunas-com-html-e-css/37239  (divisão da página em blocos)
+
+(inserir imagens)    https://www.homehost.com.br/blog/tutoriais/html-img/#:~:text=Para%20inserir%20uma%20imagem%20no,da%20imagem%20que%20ser%C3%A1%20inserida.
+
+(estilo das bordas)  https://www.alura.com.br/artigos/css-border-estilizando-bordas-elementos-css?gclid=Cj0KCQjwpeaYBhDXARIsAEzItbEorDsIoMPnX2AJ1obdqeZ3eU8TOZAmOSiMs0RwLlhgPWsBWpYpk0YaAmKrEALw_wcB
+
+
+
+#ti{ background-color: #65575b;
+    text-align: center;
+    font-size: 20px; }
+
+
+
+(barra de navegação)   http://www.w3bai.com/pt/css/css_navbar.html#gsc.tab=0
+
+(link da fonte usada em "Trajetória" em "Nome")   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap" rel="stylesheet">    (Ms Madi)
+
+
+(fonte Neon) <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap" rel="stylesheet"> (font-family: 'Neonderthaw', cursive;)
+
+(formulario)  https://developer.mozilla.org/pt-BR/docs/Learn/Forms/Your_first_form#conclus%C3%A3o
+https://www.homehost.com.br/blog/tutoriais/formulario-html/
+
+
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_media_menu
+https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
+
+(sobre git) https://www.webdevdrops.com/git-no-windows-github/

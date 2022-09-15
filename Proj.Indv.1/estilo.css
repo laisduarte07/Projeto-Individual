@@ -1,0 +1,110 @@
+/* ------- MENU ------- */
+.header{
+    display: flex;
+    align-items: left;
+    justify-content: flex-end;
+    background-color: #1a364e;
+}
+
+.menu{
+    font-size: 30px;
+    font-family: 'Roboto Serif', serif;
+    margin: 20px;
+    color: #a35c6e;
+}
+
+/* ------- TOPO E BACK ------- */
+
+#name{ 
+    text-align: center;
+    font-size: 110px;
+    color: #2c3137; 
+    font-family: 'Great Vibes', cursive;}
+
+#bg{ background-color: #e38384; 
+    font-family: 'Roboto Serif', serif;}
+
+#conteudo-right{ 
+    display: flex;
+    width: 500px;
+    height: 400px;
+    float: right; }
+
+/* ------- SOBRE MIM ------- */
+
+#sbmim{
+    align-items: center;
+    width: 1300px;
+    height: 300px;
+    background-color: #1a364e;}
+
+#qseu{ 
+    text-align: center;
+    font-size: 50px;
+    color: #e38384;}
+
+ #textqseu{ 
+    font-size: 35px;
+    text-align: center;
+    color: #e9abb1;}
+
+    /* ---------- HOBBIES & INTERESSES --------- */
+
+ #hbeint{ 
+    width: 1300px;
+    height: 300px;
+    background-color: #1a364e;}
+
+#hb{
+    text-align: center;
+    font-size: 50px;
+    color: #e38384;}
+
+    #texthb{
+        font-size: 35px;
+    text-align: center;
+    color: #e9abb1;}
+
+    /* ------- FORMULÁRIO ------- */
+
+#descri{ display: block;}
+
+.formulario{ text-align: center;
+    margin-top: 80px;}
+
+.formulario h1{ font-size: 40px;}
+
+.label{ 
+    margin-top: 30px;
+    font-size: 25px;
+    color: #2c3137;}
+
+.form{ margin-top: 50px;}
+
+.input{ 
+width: 600px;
+height: 45px;
+border-radius: 20px;
+font-size: 20px;}
+
+#obs{
+border-radius: 15px;
+font-size: 25px;}
+
+.botao{ margin-top: 20px;}
+
+#botao{
+height: 40px;
+width: 200px;
+border-radius: 10px;
+background-color: #e38384;
+color: #1a364e;}
+
+#botao2{ 
+margin: 20px;
+height: 40px;
+width: 200px;
+border-radius: 10px;
+background-color: #e38384;
+color: #1a364e;}
+
